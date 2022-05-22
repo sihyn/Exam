@@ -19,7 +19,7 @@ public class Exam2 {
 		int b = scanner.nextInt();
 		// 소음 크기
 		int R = scanner.nextInt();
-		// 나무 그늘의 수
+		// 나무 그늘 수
 		int N = scanner.nextInt();
 
 		for (int i = 0; i < N; i++) {
