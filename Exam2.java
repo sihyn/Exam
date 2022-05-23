@@ -35,7 +35,7 @@ public class Exam2 {
 			}
 		}
 
-		for (int i = 0; i < result.size(); i++) {
+		for (int i = 0; i < N; i++) {
 			System.out.println(result.get(i));
 		}
 
